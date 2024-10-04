@@ -1,0 +1,2457 @@
+[
+  {
+    "word": "Hund",
+    "translation": "Perro",
+    "gender": "masculino",
+    "plural": "Hunde",
+    "type": "noun",
+    "pronunciation": "/huːnt/",
+    "categories": ["Mascotas", "Animales"],
+    "article": "der",
+    "case": ["Nominativo", "Acusativo"],
+    "diminutive": "Hündchen",
+    "synonyms": ["Tier", "Haustier"],
+    "antonyms": ["Katze"],
+    "compound_words": ["Hundehütte", "Hundesalon"],
+    "usage": [
+      {
+        "german": "Der Hund bellt laut.",
+        "spanish": "El perro ladra fuerte."
+      }
+    ],
+    "related_words": ["Tier", "Hundehütte"],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Katze",
+    "translation": "Gato",
+    "gender": "femenino",
+    "plural": "Katzen",
+    "type": "noun",
+    "pronunciation": "/ˈkatsə/",
+    "categories": ["Mascotas", "Animales"],
+    "article": "die",
+    "case": ["Nominativo", "Acusativo"],
+    "diminutive": "Kätzchen",
+    "synonyms": ["Mieze"],
+    "antonyms": ["Hund"],
+    "compound_words": ["Katzenkorb", "Katzenfutter"],
+    "usage": [
+      {
+        "german": "Die Katze schläft im Korb.",
+        "spanish": "El gato duerme en la cesta."
+      }
+    ],
+    "related_words": ["Mieze", "Hauskatze"],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Vogel",
+    "translation": "Pájaro",
+    "gender": "masculino",
+    "plural": "Vögel",
+    "type": "noun",
+    "pronunciation": "/ˈfoːɡl̩/",
+    "categories": ["Mascotas", "Animales"],
+    "article": "der",
+    "case": ["Nominativo", "Genitivo"],
+    "diminutive": "Vögelchen",
+    "synonyms": ["Geflügel"],
+    "antonyms": [],
+    "compound_words": ["Vogelkäfig", "Vogelhaus"],
+    "usage": [
+      {
+        "german": "Der Vogel singt schön.",
+        "spanish": "El pájaro canta bonito."
+      }
+    ],
+    "related_words": ["Geflügel", "Vogelhaus"],
+    "frequency": "Media"
+  },
+  {
+    "word": "Maus",
+    "translation": "Rata",
+    "gender": "femenino",
+    "plural": "Mäuse",
+    "type": "noun",
+    "pronunciation": "/maʊs/",
+    "categories": ["Mascotas", "Animales"],
+    "article": "die",
+    "case": ["Nominativo", "Dativo"],
+    "diminutive": "Mäuschen",
+    "synonyms": ["Nagetier"],
+    "antonyms": [],
+    "compound_words": ["Mausefalle", "Mausehaufen"],
+    "usage": [
+      {
+        "german": "Die Maus frisst Käse.",
+        "spanish": "La rata come queso."
+      }
+    ],
+    "related_words": ["Nagetier", "Mausefalle"],
+    "frequency": "Media"
+  },
+  {
+    "word": "Schmetterling",
+    "translation": "Mariposa",
+    "gender": "masculino",
+    "plural": "Schmetterlinge",
+    "type": "noun",
+    "pronunciation": "/ˈʃmɛtɐlɪŋ/",
+    "categories": ["Insectos", "Animales"],
+    "article": "der",
+    "case": ["Nominativo", "Acusativo"],
+    "diminutive": "Schmetterlingchen",
+    "synonyms": [],
+    "antonyms": [],
+    "compound_words": ["Schmetterlingsflügel"],
+    "usage": [
+      {
+        "german": "Der Schmetterling fliegt.",
+        "spanish": "La mariposa vuela."
+      }
+    ],
+    "related_words": [],
+    "frequency": "Media"
+  },
+  {
+    "word": "Fisch",
+    "translation": "Pez",
+    "gender": "masculino",
+    "plural": "Fische",
+    "type": "noun",
+    "pronunciation": "/fɪʃ/",
+    "categories": ["Mascotas", "Animales"],
+    "article": "der",
+    "case": ["Nominativo", "Acusativo"],
+    "diminutive": "Fischlein",
+    "synonyms": ["Meerestier"],
+    "antonyms": [],
+    "compound_words": ["Fischschwarm", "Fischmarkt"],
+    "usage": [
+      {
+        "german": "Der Fisch schwimmt im Wasser.",
+        "spanish": "El pez nada en el agua."
+      }
+    ],
+    "related_words": ["Meerestier", "Fischmarkt"],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Mann",
+    "translation": "Hombre",
+    "gender": "masculino",
+    "plural": "Männer",
+    "type": "noun",
+    "pronunciation": "/man/",
+    "categories": ["Personas"],
+    "article": "der",
+    "case": ["Nominativo", "Acusativo", "Dativo", "Genitivo"],
+    "diminutive": "Männchen",
+    "synonyms": ["Herr", "Kerl"],
+    "antonyms": ["Frau"],
+    "compound_words": ["Ehemann", "Mannschaft"],
+    "usage": [
+      {
+        "german": "Der Mann ist groß.",
+        "spanish": "El hombre es grande."
+      },
+      {
+        "german": "Ich sehe einen Mann.",
+        "spanish": "Veo a un hombre."
+      }
+    ],
+    "related_words": ["Frau", "Junge"],
+    "frequency": "Alta",
+    "difficulty": 2
+  },
+  {
+    "word": "Frau",
+    "translation": "Mujer",
+    "gender": "femenino",
+    "plural": "Frauen",
+    "type": "noun",
+    "pronunciation": "/frau/",
+    "categories": ["Personas"],
+    "article": "die",
+    "case": ["Nominativo", "Acusativo", "Dativo", "Genitivo"],
+    "diminutive": "Fräulein",
+    "synonyms": ["Dame", "Weib"],
+    "antonyms": ["Mann"],
+    "compound_words": ["Ehefrau", "Frauenarzt"],
+    "usage": [
+      {
+        "german": "Die Frau ist schön.",
+        "spanish": "La mujer es hermosa."
+      },
+      {
+        "german": "Ich sehe eine Frau.",
+        "spanish": "Veo a una mujer."
+      }
+    ],
+    "related_words": ["Mann", "Mädchen"],
+    "frequency": "Alta",
+    "difficulty": 2
+  },
+  {
+    "word": "Junge",
+    "translation": "Niño",
+    "gender": "masculino",
+    "plural": "Jungen",
+    "type": "noun",
+    "pronunciation": "/ˈjʊŋə/",
+    "categories": ["Personas"],
+    "article": "der",
+    "case": ["Nominativo", "Acusativo", "Dativo", "Genitivo"],
+    "diminutive": "Jüngchen",
+    "synonyms": ["Knabe", "Bub"],
+    "antonyms": ["Mädchen"],
+    "compound_words": ["Schuljunge", "Jungenmannschaft"],
+    "usage": [
+      {
+        "german": "Der Junge spielt.",
+        "spanish": "El niño juega."
+      },
+      {
+        "german": "Ich sehe einen Jungen.",
+        "spanish": "Veo a un niño."
+      }
+    ],
+    "related_words": ["Mädchen", "Mann"],
+    "frequency": "Alta",
+    "difficulty": 2
+  },
+  {
+    "word": "Mädchen",
+    "translation": "Niña",
+    "gender": "neutro",
+    "plural": "Mädchen",
+    "type": "noun",
+    "pronunciation": "/ˈmɛːtçən/",
+    "categories": ["Personas"],
+    "article": "das",
+    "case": ["Nominativo", "Acusativo", "Dativo", "Genitivo"],
+    "diminutive": "Mädchen",
+    "synonyms": ["Mädel", "Mädchenkind"],
+    "antonyms": ["Junge"],
+    "compound_words": ["Schulmädchen", "Mädchenmannschaft"],
+    "usage": [
+      {
+        "german": "Das Mädchen lacht.",
+        "spanish": "La niña ríe."
+      },
+      {
+        "german": "Ich sehe ein Mädchen.",
+        "spanish": "Veo a una niña."
+      }
+    ],
+    "related_words": ["Junge", "Frau"],
+    "frequency": "Alta",
+    "difficulty": 2
+  },
+  {
+    "word": "Schildkröte",
+    "translation": "Tortuga",
+    "gender": "femenino",
+    "plural": "Schildkröten",
+    "type": "noun",
+    "pronunciation": "/ˈʃɪltkʁøːtə/",
+    "categories": ["Mascotas", "Animales"],
+    "article": "die",
+    "case": ["Nominativo", "Dativo"],
+    "diminutive": "Schildkrötchen",
+    "synonyms": [],
+    "antonyms": [],
+    "compound_words": ["Schildkrötenpanzer"],
+    "usage": [
+      {
+        "german": "Die Schildkröte bewegt sich langsam.",
+        "spanish": "La tortuga se mueve despacio."
+      }
+    ],
+    "related_words": [],
+    "frequency": "Baja",
+    "difficulty": 4
+  },
+  {
+    "word": "laufen",
+    "translation": "correr",
+    "type": "verb",
+    "pronunciation": "ˈlaʊ̯fn̩",
+    "categories": ["verb"],
+    "prefix": null,
+    "separable": false,
+    "participle": "gelaufen",
+    "auxiliary": "sein",
+    "usage": ["Ich laufe jeden Morgen.", "Wir laufen zum Park."],
+    "related_words": ["rennen", "spazieren"],
+    "frequency": "Alta",
+    "difficulty": 3
+  },
+  {
+    "word": "trinken",
+    "translation": "beber",
+    "type": "verb",
+    "pronunciation": "ˈtrɪŋkən",
+    "categories": ["verb"],
+    "prefix": null,
+    "separable": false,
+    "participle": "getrunken",
+    "auxiliary": "haben",
+    "usage": ["Ich trinke Wasser.", "Sie trinkt Tee."],
+    "related_words": ["essen", "schmecken"],
+    "frequency": "Alta",
+    "difficulty": 2
+  },
+  {
+    "word": "essen",
+    "translation": "comer",
+    "type": "verb",
+    "pronunciation": "ˈɛsn̩",
+    "categories": ["verb"],
+    "prefix": null,
+    "separable": false,
+    "participle": "gegessen",
+    "auxiliary": "haben",
+    "usage": ["Ich esse gerne Pizza.", "Sie isst langsam."],
+    "related_words": ["trinken", "schmecken"],
+    "frequency": "Alta",
+    "difficulty": 2
+  },
+  {
+    "word": "gehen",
+    "translation": "ir",
+    "type": "verb",
+    "pronunciation": "ˈɡeːən",
+    "categories": ["verb"],
+    "prefix": null,
+    "separable": false,
+    "participle": "gegangen",
+    "auxiliary": "sein",
+    "conjugation": {
+      "present": {
+        "ich": "gehe",
+        "du": "gehst",
+        "er_sie_es": "geht",
+        "wir": "gehen",
+        "ihr": "geht",
+        "sie_Sie": "gehen"
+      },
+      "past": {
+        "ich": "ging",
+        "du": "gingst",
+        "er_sie_es": "ging",
+        "wir": "gingen",
+        "ihr": "gingt",
+        "sie_Sie": "gingen"
+      }
+    },
+    "usage": ["Ich gehe zur Schule.", "Er geht nach Hause."],
+    "related_words": ["laufen", "kommen"],
+    "frequency": "Alta",
+    "difficulty": 2
+  },
+  {
+    "word": "sehen",
+    "translation": "ver",
+    "type": "verb",
+    "pronunciation": "ˈzeːən",
+    "categories": ["verb"],
+    "prefix": null,
+    "separable": false,
+    "participle": "gesehen",
+    "auxiliary": "haben",
+    "conjugation": {
+      "present": {
+        "ich": "sehe",
+        "du": "siehst",
+        "er_sie_es": "sieht",
+        "wir": "sehen",
+        "ihr": "seht",
+        "sie_Sie": "sehen"
+      },
+      "past": {
+        "ich": "sah",
+        "du": "sahst",
+        "er_sie_es": "sah",
+        "wir": "sahen",
+        "ihr": "saht",
+        "sie_Sie": "sahen"
+      }
+    },
+    "usage": ["Ich sehe den Hund.", "Wir sehen einen Film."],
+    "related_words": ["beobachten", "blicken"],
+    "frequency": "Alta",
+    "difficulty": 2
+  },
+  {
+    "word": "sprechen",
+    "translation": "hablar",
+    "type": "verb",
+    "pronunciation": "ˈʃpʁɛçn̩",
+    "categories": ["verb"],
+    "prefix": null,
+    "separable": false,
+    "participle": "gesprochen",
+    "auxiliary": "haben",
+    "conjugation": {
+      "present": {
+        "ich": "spreche",
+        "du": "sprichst",
+        "er_sie_es": "spricht",
+        "wir": "sprechen",
+        "ihr": "sprecht",
+        "sie_Sie": "sprechen"
+      },
+      "past": {
+        "ich": "sprach",
+        "du": "sprachst",
+        "er_sie_es": "sprach",
+        "wir": "sprachen",
+        "ihr": "spracht",
+        "sie_Sie": "sprachen"
+      }
+    },
+    "usage": ["Ich spreche Deutsch.", "Er spricht langsam."],
+    "related_words": ["reden", "sagen"],
+    "frequency": "Media",
+    "difficulty": 3
+  },{
+  "word": "schreiben",
+  "translation": "escribir",
+  "type": "verb",
+  "pronunciation": "ˈʃʁaɪ̯bn̩",
+  "categories": ["verb"],
+  "prefix": null,
+  "separable": false,
+  "participle": "geschrieben",
+  "auxiliary": "haben",
+  "conjugation": {
+    "present": {
+      "ich": "schreibe",
+      "du": "schreibst",
+      "er_sie_es": "schreibt",
+      "wir": "schreiben",
+      "ihr": "schreibt",
+      "sie_Sie": "schreiben"
+    },
+    "past": {
+      "ich": "schrieb",
+      "du": "schriebst",
+      "er_sie_es": "schrieb",
+      "wir": "schrieben",
+      "ihr": "schriebt",
+      "sie_Sie": "schrieben"
+    }
+  },
+  "usage": ["Ich schreibe einen Brief.", "Sie schreibt ein Buch."],
+  "related_words": ["notieren", "tippen"],
+  "frequency": "Media",
+  "difficulty": 3
+},
+  {
+    "word": "Hemd",
+    "translation": "Camisa",
+    "gender": "neutro",
+    "plural": "Hemden",
+    "type": "noun",
+    "pronunciation": "/hɛmt/",
+    "categories": ["Ropa"],
+    "article": "das",
+    "case": ["Nominativo", "Acusativo"],
+    "diminutive": null,
+    "synonyms": ["Bluse"],
+    "antonyms": [],
+    "compound_words": ["Hemdkragen", "Hemdärmel"],
+    "usage": [
+      {
+        "german": "Das Hemd ist sauber.",
+        "spanish": "La camisa está limpia."
+      }
+    ],
+    "related_words": ["Kragen", "Bluse"],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Hose",
+    "translation": "Pantalón",
+    "gender": "femenino",
+    "plural": "Hosen",
+    "type": "noun",
+    "pronunciation": "/ˈhoːzə/",
+    "categories": ["Ropa"],
+    "article": "die",
+    "case": ["Nominativo", "Dativo"],
+    "diminutive": null,
+    "synonyms": ["Beinkleid"],
+    "antonyms": [],
+    "compound_words": ["Jeanshose", "Sporthose"],
+    "usage": [
+      {
+        "german": "Ich trage eine Hose.",
+        "spanish": "Llevo un pantalón."
+      }
+    ],
+    "related_words": ["Jeans", "Shorts"],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Jacke",
+    "translation": "Chaqueta",
+    "gender": "femenino",
+    "plural": "Jacken",
+    "type": "noun",
+    "pronunciation": "/ˈjakə/",
+    "categories": ["Ropa"],
+    "article": "die",
+    "case": ["Nominativo", "Genitivo"],
+    "diminutive": null,
+    "synonyms": ["Mantel"],
+    "antonyms": [],
+    "compound_words": ["Winterjacke", "Lederjacke"],
+    "usage": [
+      {
+        "german": "Die Jacke ist warm.",
+        "spanish": "La chaqueta es abrigada."
+      }
+    ],
+    "related_words": ["Mantel", "Blazer"],
+    "frequency": "Media"
+  },
+  {
+    "word": "Schuhe",
+    "translation": "Zapatos",
+    "gender": "masculino",
+    "plural": "Schuhe",
+    "type": "noun",
+    "pronunciation": "/ʃuːə/",
+    "categories": ["Ropa"],
+    "article": "die",
+    "case": ["Nominativo", "Acusativo"],
+    "diminutive": "Schühchen",
+    "synonyms": ["Fußbekleidung"],
+    "antonyms": [],
+    "compound_words": ["Sportschuhe", "Hausschuhe"],
+    "usage": [
+      {
+        "german": "Ich ziehe meine Schuhe an.",
+        "spanish": "Me pongo los zapatos."
+      }
+    ],
+    "related_words": ["Sandalen", "Stiefel"],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Mütze",
+    "translation": "Gorro",
+    "gender": "femenino",
+    "plural": "Mützen",
+    "type": "noun",
+    "pronunciation": "/ˈmʏtsə/",
+    "categories": ["Ropa"],
+    "article": "die",
+    "case": ["Nominativo", "Dativo"],
+    "diminutive": "Mützchen",
+    "synonyms": ["Kappe"],
+    "antonyms": [],
+    "compound_words": ["Strickmütze", "Wollmütze"],
+    "usage": [
+      {
+        "german": "Die Mütze ist warm.",
+        "spanish": "El gorro es cálido."
+      }
+    ],
+    "related_words": ["Kappe", "Hut"],
+    "frequency": "Media"
+  },
+  {
+    "word": "Handschuh",
+    "translation": "Guante",
+    "gender": "masculino",
+    "plural": "Handschuhe",
+    "type": "noun",
+    "pronunciation": "/ˈhantʃuː/",
+    "categories": ["Ropa"],
+    "article": "der",
+    "case": ["Nominativo", "Acusativo"],
+    "diminutive": null,
+    "synonyms": [],
+    "antonyms": [],
+    "compound_words": ["Lederhandschuh", "Arbeitshandschuh"],
+    "usage": [
+      {
+        "german": "Der Handschuh passt gut.",
+        "spanish": "El guante queda bien."
+      }
+    ],
+    "related_words": ["Stulpen", "Mütze"],
+    "frequency": "Baja"
+  },
+  {
+    "word": "Rock",
+    "translation": "Falda",
+    "gender": "masculino",
+    "plural": "Röcke",
+    "type": "noun",
+    "pronunciation": "/rɔk/",
+    "categories": ["Ropa"],
+    "article": "der",
+    "case": ["Nominativo", "Genitivo"],
+    "diminutive": null,
+    "synonyms": ["Jupe"],
+    "antonyms": [],
+    "compound_words": ["Minirock", "Maxirock"],
+    "usage": [
+      {
+        "german": "Der Rock ist kurz.",
+        "spanish": "La falda es corta."
+      }
+    ],
+    "related_words": ["Kleid", "Shorts"],
+    "frequency": "Media"
+  },
+  {
+    "word": "Kleid",
+    "translation": "Vestido",
+    "gender": "neutro",
+    "plural": "Kleider",
+    "type": "noun",
+    "pronunciation": "/klaɪ̯t/",
+    "categories": ["Ropa"],
+    "article": "das",
+    "case": ["Nominativo", "Dativo"],
+    "diminutive": null,
+    "synonyms": [],
+    "antonyms": [],
+    "compound_words": ["Sommerkleid", "Abendkleid"],
+    "usage": [
+      {
+        "german": "Das Kleid ist schön.",
+        "spanish": "El vestido es bonito."
+      }
+    ],
+    "related_words": ["Rock", "Bluse"],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Mantel",
+    "translation": "Abrigo",
+    "gender": "masculino",
+    "plural": "Mäntel",
+    "type": "noun",
+    "pronunciation": "/ˈmantəl/",
+    "categories": ["Ropa"],
+    "article": "der",
+    "case": ["Nominativo", "Genitivo"],
+    "diminutive": null,
+    "synonyms": ["Jacke"],
+    "antonyms": [],
+    "compound_words": ["Regenmantel", "Wintermantel"],
+    "usage": [
+      {
+        "german": "Der Mantel hält warm.",
+        "spanish": "El abrigo abriga."
+      }
+    ],
+    "related_words": ["Jacke", "Pullover"],
+    "frequency": "Media"
+  },
+  {
+    "word": "Pullover",
+    "translation": "Suéter",
+    "gender": "masculino",
+    "plural": "Pullover",
+    "type": "noun",
+    "pronunciation": "/pʊˈloːvɐ/",
+    "categories": ["Ropa"],
+    "article": "der",
+    "case": ["Nominativo", "Acusativo"],
+    "diminutive": null,
+    "synonyms": ["Jumper"],
+    "antonyms": [],
+    "compound_words": ["Strickpullover", "Wollpullover"],
+    "usage": [
+      {
+        "german": "Ich trage einen Pullover.",
+        "spanish": "Llevo puesto un suéter."
+      }
+    ],
+    "related_words": ["Sweatshirt", "Hemd"],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Schal",
+    "translation": "Bufanda",
+    "gender": "masculino",
+    "plural": "Schals",
+    "type": "noun",
+    "pronunciation": "/ʃaːl/",
+    "categories": ["Ropa"],
+    "article": "der",
+    "case": ["Nominativo", "Acusativo"],
+    "diminutive": null,
+    "synonyms": ["Tuch"],
+    "antonyms": [],
+    "compound_words": ["Wollschal", "Seidenschal"],
+    "usage": [
+      {
+        "german": "Der Schal hält warm.",
+        "spanish": "La bufanda abriga."
+      }
+    ],
+    "related_words": ["Tuch", "Handschuh"],
+    "frequency": "Media"
+  },
+  {
+    "word": "Socken",
+    "translation": "Calcetines",
+    "gender": "femenino",
+    "plural": "Socken",
+    "type": "noun",
+    "pronunciation": "/ˈzɔkən/",
+    "categories": ["Ropa"],
+    "article": "die",
+    "case": ["Nominativo", "Acusativo"],
+    "diminutive": null,
+    "synonyms": ["Strümpfe"],
+    "antonyms": [],
+    "compound_words": ["Sportsocken", "Wollsocken"],
+    "usage": [
+      {
+        "german": "Die Socken sind warm.",
+        "spanish": "Los calcetines son cálidos."
+      }
+    ],
+    "related_words": ["Strümpfe", "Schuhe"],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Krawatte",
+    "translation": "Corbata",
+    "gender": "femenino",
+    "plural": "Krawatten",
+    "type": "noun",
+    "pronunciation": "/kraˈvatə/",
+    "categories": ["Ropa"],
+    "article": "die",
+    "case": ["Nominativo", "Genitivo"],
+    "diminutive": null,
+    "synonyms": ["Schlips"],
+    "antonyms": [],
+    "compound_words": ["Seidenkrawatte", "Schulkrawatte"],
+    "usage": [
+      {
+        "german": "Er trägt eine Krawatte.",
+        "spanish": "Él lleva una corbata."
+      }
+    ],
+    "related_words": ["Schlips", "Anzug"],
+    "frequency": "Media"
+  },
+  {
+    "word": "Anzug",
+    "translation": "Traje",
+    "gender": "masculino",
+    "plural": "Anzüge",
+    "type": "noun",
+    "pronunciation": "/ˈantsuːk/",
+    "categories": ["Ropa"],
+    "article": "der",
+    "case": ["Nominativo", "Acusativo"],
+    "diminutive": null,
+    "synonyms": ["Kostüm"],
+    "antonyms": [],
+    "compound_words": ["Herrenanzug", "Businessanzug"],
+    "usage": [
+      {
+        "german": "Der Anzug ist schwarz.",
+        "spanish": "El traje es negro."
+      }
+    ],
+    "related_words": ["Kostüm", "Krawatte"],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Gürtel",
+    "translation": "Cinturón",
+    "gender": "masculino",
+    "plural": "Gürtel",
+    "type": "noun",
+    "pronunciation": "/ˈɡʏrtəl/",
+    "categories": ["Ropa"],
+    "article": "der",
+    "case": ["Nominativo", "Genitivo"],
+    "diminutive": null,
+    "synonyms": ["Tailleband"],
+    "antonyms": [],
+    "compound_words": ["Ledergürtel", "Hosengürtel"],
+    "usage": [
+      {
+        "german": "Ich brauche einen Gürtel.",
+        "spanish": "Necesito un cinturón."
+      }
+    ],
+    "related_words": ["Hose", "Schuhe"],
+    "frequency": "Media"
+  },
+  {
+    "word": "Unterwäsche",
+    "translation": "Ropa interior",
+    "gender": "femenino",
+    "plural": "Unterwäschen",
+    "type": "noun",
+    "pronunciation": "/ˈʊntɐvɛʃə/",
+    "categories": ["Ropa"],
+    "article": "die",
+    "case": ["Nominativo", "Dativo"],
+    "diminutive": null,
+    "synonyms": ["Dessous"],
+    "antonyms": [],
+    "compound_words": ["Baumwollunterwäsche", "Spitzenunterwäsche"],
+    "usage": [
+      {
+        "german": "Ich kaufe neue Unterwäsche.",
+        "spanish": "Compro ropa interior nueva."
+      }
+    ],
+    "related_words": ["BH", "Slip"],
+    "frequency": "Media"
+  },
+
+  {
+    "word": "Bluse",
+    "translation": "Blusa",
+    "gender": "femenino",
+    "plural": "Blusen",
+    "type": "noun",
+    "pronunciation": "/ˈbluːzə/",
+    "categories": ["Ropa"],
+    "article": "die",
+    "case": ["Nominativo", "Acusativo"],
+    "diminutive": null,
+    "synonyms": ["Oberteil"],
+    "antonyms": [],
+    "compound_words": ["Seidenbluse", "Sommerbluse"],
+    "usage": [
+      {
+        "german": "Die Bluse ist schön.",
+        "spanish": "La blusa es bonita."
+      }
+    ],
+    "related_words": ["Hemd", "Kleid"],
+    "frequency": "Media"
+  },
+  {
+    "word": "Stiefel",
+    "translation": "Bota",
+    "gender": "masculino",
+    "plural": "Stiefel",
+    "type": "noun",
+    "pronunciation": "/ˈʃtiːfəl/",
+    "categories": ["Ropa"],
+    "article": "der",
+    "case": ["Nominativo", "Dativo"],
+    "diminutive": null,
+    "synonyms": ["Schuh"],
+    "antonyms": [],
+    "compound_words": ["Regenstiefel", "Winterstiefel"],
+    "usage": [
+      {
+        "german": "Die Stiefel sind neu.",
+        "spanish": "Las botas son nuevas."
+      }
+    ],
+    "related_words": ["Schuhe", "Sandalen"],
+    "frequency": "Media"
+  },
+  {
+    "word": "Hut",
+    "translation": "Sombrero",
+    "gender": "masculino",
+    "plural": "Hüte",
+    "type": "noun",
+    "pronunciation": "/huːt/",
+    "categories": ["Ropa"],
+    "article": "der",
+    "case": ["Nominativo", "Genitivo"],
+    "diminutive": null,
+    "synonyms": [],
+    "antonyms": [],
+    "compound_words": ["Filzhut", "Sommerhut"],
+    "usage": [
+      {
+        "german": "Der Hut ist groß.",
+        "spanish": "El sombrero es grande."
+      }
+    ],
+    "related_words": ["Mütze", "Kappe"],
+    "frequency": "Media"
+  },
+  {
+    "word": "Jeans",
+    "translation": "Vaqueros",
+    "gender": "femenino",
+    "plural": "Jeans",
+    "type": "noun",
+    "pronunciation": "/dʒiːns/",
+    "categories": ["Ropa"],
+    "article": "die",
+    "case": ["Nominativo", "Acusativo"],
+    "diminutive": null,
+    "synonyms": ["Denim"],
+    "antonyms": [],
+    "compound_words": ["Jeanshose", "Jeansjacke"],
+    "usage": [
+      {
+        "german": "Ich trage Jeans.",
+        "spanish": "Llevo vaqueros."
+      }
+    ],
+    "related_words": ["Hose", "Shorts"],
+    "frequency": "Alta"
+  },
+  {
+    "word": "BH",
+    "translation": "Sostén",
+    "gender": "masculino",
+    "plural": "BHs",
+    "type": "noun",
+    "pronunciation": "/beːhaː/",
+    "categories": ["Ropa"],
+    "article": "der",
+    "case": ["Nominativo", "Acusativo"],
+    "diminutive": null,
+    "synonyms": ["Büstenhalter"],
+    "antonyms": [],
+    "compound_words": ["Sport-BH", "Spitzen-BH"],
+    "usage": [
+      {
+        "german": "Der BH passt gut.",
+        "spanish": "El sostén queda bien."
+      }
+    ],
+    "related_words": ["Unterwäsche", "Slip"],
+    "frequency": "Media"
+  },
+  {
+    "word": "eins",
+    "translation": "uno",
+    "type": "number",
+    "pronunciation": "aɪ̯ns",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe eins.",
+        "spanish": "Tengo uno."
+      },
+      {
+        "german": "Eins ist die kleinste Zahl.",
+        "spanish": "Uno es el número más pequeño."
+      }
+    ],
+    "related_words": ["zwei", "drei"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "zwei",
+    "translation": "dos",
+    "type": "number",
+    "pronunciation": "tsvaɪ̯",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe zwei Äpfel.",
+        "spanish": "Tengo dos manzanas."
+      },
+      {
+        "german": "Zwei plus zwei ist vier.",
+        "spanish": "Dos más dos son cuatro."
+      }
+    ],
+    "related_words": ["eins", "drei"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "drei",
+    "translation": "tres",
+    "type": "number",
+    "pronunciation": "dʁaɪ̯",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe drei Bücher.",
+        "spanish": "Tengo tres libros."
+      },
+      {
+        "german": "Drei ist eine ungerade Zahl.",
+        "spanish": "Tres es un número impar."
+      }
+    ],
+    "related_words": ["zwei", "vier"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "vier",
+    "translation": "cuatro",
+    "type": "number",
+    "pronunciation": "fiːɐ̯",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe vier Stühle.",
+        "spanish": "Tengo cuatro sillas."
+      },
+      {
+        "german": "Vier ist eine gerade Zahl.",
+        "spanish": "Cuatro es un número par."
+      }
+    ],
+    "related_words": ["drei", "fünf"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "fünf",
+    "translation": "cinco",
+    "type": "number",
+    "pronunciation": "fʏnf",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe fünf Finger.",
+        "spanish": "Tengo cinco dedos."
+      },
+      {
+        "german": "Fünf ist eine Primzahl.",
+        "spanish": "Cinco es un número primo."
+      }
+    ],
+    "related_words": ["vier", "sechs"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "sechs",
+    "translation": "seis",
+    "type": "number",
+    "pronunciation": "zɛks",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe sechs Bleistifte.",
+        "spanish": "Tengo seis lápices."
+      },
+      {
+        "german": "Sechs ist eine gerade Zahl.",
+        "spanish": "Seis es un número par."
+      }
+    ],
+    "related_words": ["fünf", "sieben"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "sieben",
+    "translation": "siete",
+    "type": "number",
+    "pronunciation": "ˈziːbn̩",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe sieben Bücher.",
+        "spanish": "Tengo siete libros."
+      },
+      {
+        "german": "Sieben ist eine Primzahl.",
+        "spanish": "Siete es un número primo."
+      }
+    ],
+    "related_words": ["sechs", "acht"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "acht",
+    "translation": "ocho",
+    "type": "number",
+    "pronunciation": "axt",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe acht Äpfel.",
+        "spanish": "Tengo ocho manzanas."
+      },
+      {
+        "german": "Acht ist eine gerade Zahl.",
+        "spanish": "Ocho es un número par."
+      }
+    ],
+    "related_words": ["sieben", "neun"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "neun",
+    "translation": "nueve",
+    "type": "number",
+    "pronunciation": "nɔʏ̯n",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe neun Freunde.",
+        "spanish": "Tengo nueve amigos."
+      },
+      {
+        "german": "Neun ist eine ungerade Zahl.",
+        "spanish": "Nueve es un número impar."
+      }
+    ],
+    "related_words": ["acht", "zehn"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "zehn",
+    "translation": "diez",
+    "type": "number",
+    "pronunciation": "tseːn",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe zehn Finger.",
+        "spanish": "Tengo diez dedos."
+      },
+      {
+        "german": "Zehn ist eine gerade Zahl.",
+        "spanish": "Diez es un número par."
+      }
+    ],
+    "related_words": ["neun", "elf"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "elf",
+    "translation": "once",
+    "type": "number",
+    "pronunciation": "ɛlf",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe elf Blumen.",
+        "spanish": "Tengo once flores."
+      },
+      {
+        "german": "Elf ist eine Primzahl.",
+        "spanish": "Once es un número primo."
+      }
+    ],
+    "related_words": ["zehn", "zwölf"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "zwölf",
+    "translation": "doce",
+    "type": "number",
+    "pronunciation": "tsvœlf",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe zwölf Eier.",
+        "spanish": "Tengo doce huevos."
+      },
+      {
+        "german": "Zwölf ist eine gerade Zahl.",
+        "spanish": "Doce es un número par."
+      }
+    ],
+    "related_words": ["elf", "dreizehn"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "dreizehn",
+    "translation": "trece",
+    "type": "number",
+    "pronunciation": "ˈdʁaɪ̯tseːn",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe dreizehn Stifte.",
+        "spanish": "Tengo trece lápices."
+      },
+      {
+        "german": "Dreizehn ist eine ungerade Zahl.",
+        "spanish": "Trece es un número impar."
+      }
+    ],
+    "related_words": ["zwölf", "vierzehn"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "vierzehn",
+    "translation": "catorce",
+    "type": "number",
+    "pronunciation": "ˈfiːɐ̯tseːn",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe vierzehn Bücher.",
+        "spanish": "Tengo catorce libros."
+      },
+      {
+        "german": "Vierzehn ist eine gerade Zahl.",
+        "spanish": "Catorce es un número par."
+      }
+    ],
+    "related_words": ["dreizehn", "fünfzehn"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "fünfzehn",
+    "translation": "quince",
+    "type": "number",
+    "pronunciation": "ˈfʏnfˌtseːn",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe fünfzehn Freunde.",
+        "spanish": "Tengo quince amigos."
+      },
+      {
+        "german": "Fünfzehn ist eine ungerade Zahl.",
+        "spanish": "Quince es un número impar."
+      }
+    ],
+    "related_words": ["vierzehn", "sechzehn"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "sechzehn",
+    "translation": "dieciséis",
+    "type": "number",
+    "pronunciation": "ˈzɛçtseːn",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe sechzehn Äpfel.",
+        "spanish": "Tengo dieciséis manzanas."
+      },
+      {
+        "german": "Sechzehn ist eine gerade Zahl.",
+        "spanish": "Dieciséis es un número par."
+      }
+    ],
+    "related_words": ["fünfzehn", "siebzehn"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "siebzehn",
+    "translation": "diecisiete",
+    "type": "number",
+    "pronunciation": "ˈziːptseːn",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe siebzehn Blumen.",
+        "spanish": "Tengo diecisiete flores."
+      },
+      {
+        "german": "Siebzehn ist eine Primzahl.",
+        "spanish": "Diecisiete es un número primo."
+      }
+    ],
+    "related_words": ["sechzehn", "achtzehn"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "achtzehn",
+    "translation": "dieciocho",
+    "type": "number",
+    "pronunciation": "ˈaxtseːn",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe achtzehn Stühle.",
+        "spanish": "Tengo dieciocho sillas."
+      },
+      {
+        "german": "Achtzehn ist eine gerade Zahl.",
+        "spanish": "Dieciocho es un número par."
+      }
+    ],
+    "related_words": ["siebzehn", "neunzehn"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "neunzehn",
+    "translation": "diecinueve",
+    "type": "number",
+    "pronunciation": "ˈnɔʏ̯ntseːn",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe neunzehn Freunde.",
+        "spanish": "Tengo diecinueve amigos."
+      },
+      {
+        "german": "Neunzehn ist eine ungerade Zahl.",
+        "spanish": "Diecinueve es un número impar."
+      }
+    ],
+    "related_words": ["achtzehn", "zwanzig"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "zwanzig",
+    "translation": "veinte",
+    "type": "number",
+    "pronunciation": "ˈtsvanʦɪç",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe zwanzig Euro.",
+        "spanish": "Tengo veinte euros."
+      },
+      {
+        "german": "Zwanzig ist eine gerade Zahl.",
+        "spanish": "Veinte es un número par."
+      }
+    ],
+    "related_words": ["neunzehn", "dreißig"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "dreißig",
+    "translation": "treinta",
+    "type": "number",
+    "pronunciation": "ˈdʁaɪ̯sɪç",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe dreißig Bücher.",
+        "spanish": "Tengo treinta libros."
+      },
+      {
+        "german": "Dreißig ist eine gerade Zahl.",
+        "spanish": "Treinta es un número par."
+      }
+    ],
+    "related_words": ["zwanzig", "vierzig"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "vierzig",
+    "translation": "cuarenta",
+    "type": "number",
+    "pronunciation": "ˈfiːɐ̯ʦɪç",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe vierzig Äpfel.",
+        "spanish": "Tengo cuarenta manzanas."
+      },
+      {
+        "german": "Vierzig ist eine gerade Zahl.",
+        "spanish": "Cuarenta es un número par."
+      }
+    ],
+    "related_words": ["dreißig", "fünfzig"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "fünfzig",
+    "translation": "cincuenta",
+    "type": "number",
+    "pronunciation": "ˈfʏnfʦɪç",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe fünfzig Freunde.",
+        "spanish": "Tengo cincuenta amigos."
+      },
+      {
+        "german": "Fünfzig ist eine gerade Zahl.",
+        "spanish": "Cincuenta es un número par."
+      }
+    ],
+    "related_words": ["vierzig", "sechzig"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "sechzig",
+    "translation": "sesenta",
+    "type": "number",
+    "pronunciation": "ˈzɛçʦɪç",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe sechzig Blumen.",
+        "spanish": "Tengo sesenta flores."
+      },
+      {
+        "german": "Sechzig ist eine gerade Zahl.",
+        "spanish": "Sesenta es un número par."
+      }
+    ],
+    "related_words": ["fünfzig", "siebzig"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "siebzig",
+    "translation": "setenta",
+    "type": "number",
+    "pronunciation": "ˈziːpʦɪç",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe siebzig Stühle.",
+        "spanish": "Tengo setenta sillas."
+      },
+      {
+        "german": "Siebzig ist eine gerade Zahl.",
+        "spanish": "Setenta es un número par."
+      }
+    ],
+    "related_words": ["sechzig", "achtzig"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "achtzig",
+    "translation": "ochenta",
+    "type": "number",
+    "pronunciation": "ˈaxtʦɪç",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe achtzig Freunde.",
+        "spanish": "Tengo ochenta amigos."
+      },
+      {
+        "german": "Achtzig ist eine gerade Zahl.",
+        "spanish": "Ochenta es un número par."
+      }
+    ],
+    "related_words": ["siebzig", "neunzig"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "neunzig",
+    "translation": "noventa",
+    "type": "number",
+    "pronunciation": "ˈnɔʏ̯nʦɪç",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe neunzig Euro.",
+        "spanish": "Tengo noventa euros."
+      },
+      {
+        "german": "Neunzig ist eine gerade Zahl.",
+        "spanish": "Noventa es un número par."
+      }
+    ],
+    "related_words": ["achtzig", "hundert"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "hundert",
+    "translation": "cien",
+    "type": "number",
+    "pronunciation": "ˈhʊndɐt",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe hundert Bücher.",
+        "spanish": "Tengo cien libros."
+      },
+      {
+        "german": "Hundert ist eine gerade Zahl.",
+        "spanish": "Cien es un número par."
+      }
+    ],
+    "related_words": ["neunzig", "tausend"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "tausend",
+    "translation": "mil",
+    "type": "number",
+    "pronunciation": "ˈtaʊ̯znt",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe tausend Blumen.",
+        "spanish": "Tengo mil flores."
+      },
+      {
+        "german": "Tausend ist eine gerade Zahl.",
+        "spanish": "Mil es un número par."
+      }
+    ],
+    "related_words": ["hundert", "eine Million"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "eine Million",
+    "translation": "un millón",
+    "type": "number",
+    "pronunciation": "ˈaɪ̯nə mɪˈli̯oːn",
+    "categories": ["números"],
+    "usage": [
+      {
+        "german": "Ich habe eine Million Euro.",
+        "spanish": "Tengo un millón de euros."
+      },
+      {
+        "german": "Eine Million ist eine große Zahl.",
+        "spanish": "Un millón es un número grande."
+      }
+    ],
+    "related_words": ["tausend", "zehn Millionen"],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "Rot",
+    "translation": "Rojo",
+    "type": "adjective",
+    "pronunciation": "/ʁoːt/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Das Auto ist rot.",
+        "spanish": "El coche es rojo."
+      }
+    ],
+    "related_words": [],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Blau",
+    "translation": "Azul",
+    "type": "adjective",
+    "pronunciation": "/blaʊ̯/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Der Himmel ist blau.",
+        "spanish": "El cielo es azul."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Grün",
+    "translation": "Verde",
+    "type": "adjective",
+    "pronunciation": "/ɡʁyːn/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Das Gras ist grün.",
+        "spanish": "El césped es verde."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Gelb",
+    "translation": "Amarillo",
+    "type": "adjective",
+    "pronunciation": "/ɡɛlp/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Die Sonne ist gelb.",
+        "spanish": "El sol es amarillo."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Schwarz",
+    "translation": "Negro",
+    "type": "adjective",
+    "pronunciation": "/ʃvaʁts/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Die Nacht ist schwarz.",
+        "spanish": "La noche es negra."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Weiß",
+    "translation": "Blanco",
+    "type": "adjective",
+    "pronunciation": "/vaɪ̯s/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Der Schnee ist weiß.",
+        "spanish": "La nieve es blanca."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Braun",
+    "translation": "Marrón",
+    "type": "adjective",
+    "pronunciation": "/bʁaʊ̯n/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Der Bär ist braun.",
+        "spanish": "El oso es marrón."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Orange",
+    "translation": "Naranja",
+    "type": "adjective",
+    "pronunciation": "/oˈʁaŋʃ/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Die Orange ist orange.",
+        "spanish": "La naranja es naranja."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Lila",
+    "translation": "Lila",
+    "type": "adjective",
+    "pronunciation": "/ˈliːla/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Die Blume ist lila.",
+        "spanish": "La flor es lila."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Rosa",
+    "translation": "Rosa",
+    "type": "adjective",
+    "pronunciation": "/ˈʁoːza/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Das Kleid ist rosa.",
+        "spanish": "El vestido es rosa."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Grau",
+    "translation": "Gris",
+    "type": "adjective",
+    "pronunciation": "/ɡʁaʊ̯/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Der Himmel ist grau.",
+        "spanish": "El cielo es gris."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Beige",
+    "translation": "Beige",
+    "type": "adjective",
+    "pronunciation": "/beːʒ/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Die Wand ist beige.",
+        "spanish": "La pared es beige."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Türkis",
+    "translation": "Turquesa",
+    "type": "adjective",
+    "pronunciation": "/tʏʁˈkiːs/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Das Meer ist türkis.",
+        "spanish": "El mar es turquesa."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Violett",
+    "translation": "Violeta",
+    "type": "adjective",
+    "pronunciation": "/viˈoːlɛt/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Der Himmel ist violett.",
+        "spanish": "El cielo es violeta."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Dunkelgrün",
+    "translation": "Verde oscuro",
+    "type": "adjective",
+    "pronunciation": "/ˈdʊŋkl̩ˌɡʁyːn/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Der Wald ist dunkelgrün.",
+        "spanish": "El bosque es verde oscuro."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Magenta",
+    "translation": "Magenta",
+    "type": "adjective",
+    "pronunciation": "/maˈɡɛnta/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Das Kleid ist magenta.",
+        "spanish": "El vestido es magenta."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Oliv",
+    "translation": "Oliva",
+    "type": "adjective",
+    "pronunciation": "/oˈliːf/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Die Jacke ist oliv.",
+        "spanish": "La chaqueta es oliva."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Hellblau",
+    "translation": "Celeste",
+    "type": "adjective",
+    "pronunciation": "/ˈhɛlˌblaʊ̯/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Der Himmel ist hellblau.",
+        "spanish": "El cielo es celeste."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Dunkelblau",
+    "translation": "Azul oscuro",
+    "type": "adjective",
+    "pronunciation": "/ˈdʊŋkl̩ˌblaʊ̯/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Das Meer ist dunkelblau.",
+        "spanish": "El mar es azul oscuro."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Hellgrün",
+    "translation": "Verde claro",
+    "type": "adjective",
+    "pronunciation": "/ˈhɛlˌɡʁyːn/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Das Blatt ist hellgrün.",
+        "spanish": "La hoja es verde claro."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Dunkelgrün",
+    "translation": "Verde oscuro",
+    "type": "adjective",
+    "pronunciation": "/ˈdʊŋkl̩ˌɡʁyːn/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Der Wald ist dunkelgrün.",
+        "spanish": "El bosque es verde oscuro."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Silber",
+    "translation": "Plateado",
+    "type": "adjective",
+    "pronunciation": "/ˈzɪlbɐ/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Das Auto ist silber.",
+        "spanish": "El coche es plateado."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Gold",
+    "translation": "Dorado",
+    "type": "adjective",
+    "pronunciation": "/ɡɔlt/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Der Ring ist gold.",
+        "spanish": "El anillo es dorado."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Lavendel",
+    "translation": "Lavanda",
+    "type": "adjective",
+    "pronunciation": "/laˈvɛndl̩/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Das Kleid ist lavendel.",
+        "spanish": "El vestido es lavanda."
+      }
+    ],
+    "frequency": "Media"
+  },
+  {
+    "word": "Zimt",
+    "translation": "Canela",
+    "type": "adjective",
+    "pronunciation": "/tsɪmt/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Der Pullover ist zimt.",
+        "spanish": "El suéter es color canela."
+      }
+    ],
+    "frequency": "Media"
+  },
+  {
+    "word": "Koralle",
+    "translation": "Coral",
+    "type": "adjective",
+    "pronunciation": "/koˈʁalə/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Der Lippenstift ist koralle.",
+        "spanish": "El labial es coral."
+      }
+    ],
+    "frequency": "Alta"
+  },
+  {
+    "word": "Rubinrot",
+    "translation": "Rojo rubí",
+    "type": "adjective",
+    "pronunciation": "/ʁuˈbiːnʁoːt/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Der Stein ist rubinrot.",
+        "spanish": "La piedra es rojo rubí."
+      }
+    ],
+    "frequency": "Media"
+  },
+  {
+    "word": "Mintgrün",
+    "translation": "Verde menta",
+    "type": "adjective",
+    "pronunciation": "/mɪntˈɡʁyːn/",
+    "categories": ["Colores"],
+    "usage": [
+      {
+        "german": "Die Decke ist mintgrün.",
+        "spanish": "La manta es verde menta."
+      }
+    ],
+    "frequency": "Media"
+  },
+  {
+    "word": "Tisch",
+    "translation": "Mesa",
+    "gender": "masculino",
+    "plural": "Tische",
+    "type": "noun",
+    "pronunciation": "/tɪʃ/",
+    "categories": ["Muebles", "Oficina"],
+    "article": "der",
+    "case": {
+      "nominative": "der Tisch",
+      "accusative": "den Tisch",
+      "dative": "dem Tisch",
+      "genitive": "des Tisches"
+    },
+    "usage": [
+      {
+        "german": "Der Tisch steht in der Mitte des Raumes.",
+        "spanish": "La mesa está en el centro de la sala."
+      }
+    ],
+    "frequency": "Alta",
+    "difficulty": 2
+  },
+  {
+    "word": "Stuhl",
+    "translation": "Silla",
+    "gender": "masculino",
+    "plural": "Stühle",
+    "type": "noun",
+    "pronunciation": "/ʃtuːl/",
+    "categories": ["Muebles", "Oficina"],
+    "article": "der",
+    "case": {
+      "nominative": "der Stuhl",
+      "accusative": "den Stuhl",
+      "dative": "dem Stuhl",
+      "genitive": "des Stuhls"
+    },
+    "usage": [
+      {
+        "german": "Ich setze mich auf den Stuhl.",
+        "spanish": "Me siento en la silla."
+      }
+    ],
+    "frequency": "Alta",
+    "difficulty": 2
+  },
+  {
+    "word": "Computer",
+    "translation": "Computadora",
+    "gender": "masculino",
+    "plural": "Computer",
+    "type": "noun",
+    "pronunciation": "/kɔmˈpjuːtɐ/",
+    "categories": ["Tecnología", "Oficina"],
+    "article": "der",
+    "case": {
+      "nominative": "der Computer",
+      "accusative": "den Computer",
+      "dative": "dem Computer",
+      "genitive": "des Computers"
+    },
+    "usage": [
+      {
+        "german": "Der Computer ist neu.",
+        "spanish": "La computadora es nueva."
+      }
+    ],
+    "frequency": "Alta",
+    "difficulty": 3
+  },
+  {
+    "word": "Tastatur",
+    "translation": "Teclado",
+    "gender": "femenino",
+    "plural": "Tastaturen",
+    "type": "noun",
+    "pronunciation": "/ˌtastaˈtuːɐ̯/",
+    "categories": ["Tecnología", "Oficina"],
+    "article": "die",
+    "case": {
+      "nominative": "die Tastatur",
+      "accusative": "die Tastatur",
+      "dative": "der Tastatur",
+      "genitive": "der Tastatur"
+    },
+    "usage": [
+      {
+        "german": "Die Tastatur ist drahtlos.",
+        "spanish": "El teclado es inalámbrico."
+      }
+    ],
+    "frequency": "Media",
+    "difficulty": 3
+  },
+  {
+    "word": "Bildschirm",
+    "translation": "Pantalla",
+    "gender": "masculino",
+    "plural": "Bildschirme",
+    "type": "noun",
+    "pronunciation": "/ˈbɪltʃɪrm/",
+    "categories": ["Tecnología", "Oficina"],
+    "article": "der",
+    "case": {
+      "nominative": "der Bildschirm",
+      "accusative": "den Bildschirm",
+      "dative": "dem Bildschirm",
+      "genitive": "des Bildschirms"
+    },
+    "usage": [
+      {
+        "german": "Der Bildschirm ist groß.",
+        "spanish": "La pantalla es grande."
+      }
+    ],
+    "frequency": "Media",
+    "difficulty": 3
+  },
+  {
+    "word": "Maus",
+    "translation": "Ratón",
+    "gender": "femenino",
+    "plural": "Mäuse",
+    "type": "noun",
+    "pronunciation": "/maʊs/",
+    "categories": ["Tecnología", "Oficina"],
+    "article": "die",
+    "case": {
+      "nominative": "die Maus",
+      "accusative": "die Maus",
+      "dative": "der Maus",
+      "genitive": "der Maus"
+    },
+    "usage": [
+      {
+        "german": "Die Maus ist kabellos.",
+        "spanish": "El ratón es inalámbrico."
+      }
+    ],
+    "frequency": "Media",
+    "difficulty": 2
+  },
+  {
+    "word": "Drucker",
+    "translation": "Impresora",
+    "gender": "masculino",
+    "plural": "Drucker",
+    "type": "noun",
+    "pronunciation": "/ˈdrʊkɐ/",
+    "categories": ["Tecnología", "Oficina"],
+    "article": "der",
+    "case": {
+      "nominative": "der Drucker",
+      "accusative": "den Drucker",
+      "dative": "dem Drucker",
+      "genitive": "des Druckers"
+    },
+    "usage": [
+      {
+        "german": "Der Drucker ist schnell.",
+        "spanish": "La impresora es rápida."
+      }
+    ],
+    "frequency": "Media",
+    "difficulty": 3
+  },
+  {
+    "word": "Papier",
+    "translation": "Papel",
+    "gender": "neutro",
+    "plural": "Papiere",
+    "type": "noun",
+    "pronunciation": "/paˈpiːɐ̯/",
+    "categories": ["Oficina"],
+    "article": "das",
+    "case": {
+      "nominative": "das Papier",
+      "accusative": "das Papier",
+      "dative": "dem Papier",
+      "genitive": "des Papiers"
+    },
+    "usage": [
+      {
+        "german": "Das Papier ist weiß.",
+        "spanish": "El papel es blanco."
+      }
+    ],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "Schere",
+    "translation": "Tijeras",
+    "gender": "femenino",
+    "plural": "Scheren",
+    "type": "noun",
+    "pronunciation": "/ˈʃeːʁə/",
+    "categories": ["Oficina"],
+    "article": "die",
+    "case": {
+      "nominative": "die Schere",
+      "accusative": "die Schere",
+      "dative": "der Schere",
+      "genitive": "der Schere"
+    },
+    "frequency": "Media",
+    "difficulty": 2
+  },
+  {
+    "word": "Heftklammer",
+    "translation": "Grapa",
+    "gender": "femenino",
+    "plural": "Heftklammern",
+    "type": "noun",
+    "pronunciation": "/ˈhɛftˌklamɐ/",
+    "categories": ["Oficina"],
+    "article": "die",
+    "case": {
+      "nominative": "die Heftklammer",
+      "accusative": "die Heftklammer",
+      "dative": "der Heftklammer",
+      "genitive": "der Heftklammer"
+    },
+    "frequency": "Baja",
+    "difficulty": 2
+  },
+  {
+    "word": "Büroklammer",
+    "translation": "Clip",
+    "gender": "femenino",
+    "plural": "Büroklammern",
+    "type": "noun",
+    "pronunciation": "/ˈbyːʁoˌklamɐ/",
+    "categories": ["Oficina"],
+    "article": "die",
+    "case": {
+      "nominative": "die Büroklammer",
+      "accusative": "die Büroklammer",
+      "dative": "der Büroklammer",
+      "genitive": "der Büroklammer"
+    },
+    "frequency": "Media",
+    "difficulty": 1
+  },
+  {
+    "word": "Ordner",
+    "translation": "Carpeta",
+    "gender": "masculino",
+    "plural": "Ordner",
+    "type": "noun",
+    "pronunciation": "/ˈɔʁdnɐ/",
+    "categories": ["Oficina"],
+    "article": "der",
+    "case": {
+      "nominative": "der Ordner",
+      "accusative": "den Ordner",
+      "dative": "dem Ordner",
+      "genitive": "des Ordners"
+    },
+    "frequency": "Media",
+    "difficulty": 2
+  },
+  {
+    "word": "Notizbuch",
+    "translation": "Cuaderno",
+    "gender": "neutro",
+    "plural": "Notizbücher",
+    "type": "noun",
+    "pronunciation": "/noˈtiːtsˌbuːx/",
+    "categories": ["Oficina"],
+    "article": "das",
+    "case": {
+      "nominative": "das Notizbuch",
+      "accusative": "das Notizbuch",
+      "dative": "dem Notizbuch",
+      "genitive": "des Notizbuchs"
+    },
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "Stift",
+    "translation": "Lápiz/Lapicero",
+    "gender": "masculino",
+    "plural": "Stifte",
+    "type": "noun",
+    "pronunciation": "/ʃtɪft/",
+    "categories": ["Oficina"],
+    "article": "der",
+    "case": {
+      "nominative": "der Stift",
+      "accusative": "den Stift",
+      "dative": "dem Stift",
+      "genitive": "des Stiftes"
+    },
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "Radiergummi",
+    "translation": "Borrador",
+    "gender": "masculino",
+    "plural": "Radiergummis",
+    "type": "noun",
+    "pronunciation": "/ʁaˈdiːɐ̯ˌɡʊmi/",
+    "categories": ["Oficina"],
+    "article": "der",
+    "case": {
+      "nominative": "der Radiergummi",
+      "accusative": "den Radiergummi",
+      "dative": "dem Radiergummi",
+      "genitive": "des Radiergummis"
+    },
+    "frequency": "Media",
+    "difficulty": 2
+  },
+  {
+    "word": "Lineal",
+    "translation": "Regla",
+    "gender": "neutro",
+    "plural": "Lineale",
+    "type": "noun",
+    "pronunciation": "/lɪˈneːal/",
+    "categories": ["Oficina"],
+    "article": "das",
+    "case": {
+      "nominative": "das Lineal",
+      "accusative": "das Lineal",
+      "dative": "dem Lineal",
+      "genitive": "des Lineals"
+    },
+    "frequency": "Media",
+    "difficulty": 1
+  },
+  {
+    "word": "Schreibtisch",
+    "translation": "Escritorio",
+    "gender": "masculino",
+    "plural": "Schreibtische",
+    "type": "noun",
+    "pronunciation": "/ˈʃraɪ̯pˌtɪʃ/",
+    "categories": ["Muebles", "Oficina"],
+    "article": "der",
+    "case": {
+      "nominative": "der Schreibtisch",
+      "accusative": "den Schreibtisch",
+      "dative": "dem Schreibtisch",
+      "genitive": "des Schreibtisches"
+    },
+    "usage": [
+      {
+        "german": "Mein Schreibtisch ist ordentlich.",
+        "spanish": "Mi escritorio está ordenado."
+      }
+    ],
+    "frequency": "Alta",
+    "difficulty": 2
+  },
+  {
+    "word": "Aktenordner",
+    "translation": "Carpeta de archivos",
+    "gender": "masculino",
+    "plural": "Aktenordner",
+    "type": "noun",
+    "pronunciation": "/ˈak̩tənˌɔʁdnɐ/",
+    "categories": ["Oficina"],
+    "article": "der",
+    "case": {
+      "nominative": "der Aktenordner",
+      "accusative": "den Aktenordner",
+      "dative": "dem Aktenordner",
+      "genitive": "des Aktenordners"
+    },
+    "usage": [
+      {
+        "german": "Die Dokumente sind im Aktenordner.",
+        "spanish": "Los documentos están en la carpeta de archivos."
+      }
+    ],
+    "frequency": "Media",
+    "difficulty": 2
+  },
+  {
+    "word": "Notizblock",
+    "translation": "Bloc de notas",
+    "gender": "masculino",
+    "plural": "Notizblöcke",
+    "type": "noun",
+    "pronunciation": "/noˈtiːtsˌblɔk/",
+    "categories": ["Oficina"],
+    "article": "der",
+    "case": {
+      "nominative": "der Notizblock",
+      "accusative": "den Notizblock",
+      "dative": "dem Notizblock",
+      "genitive": "des Notizblocks"
+    },
+    "usage": [
+      {
+        "german": "Ich schreibe meine Ideen im Notizblock.",
+        "spanish": "Escribo mis ideas en el bloc de notas."
+      }
+    ],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "Kugelschreiber",
+    "translation": "Bolígrafo",
+    "gender": "masculino",
+    "plural": "Kugelschreiber",
+    "type": "noun",
+    "pronunciation": "/ˈkuːɡl̩ʃraɪ̯bɐ/",
+    "categories": ["Oficina"],
+    "article": "der",
+    "case": {
+      "nominative": "der Kugelschreiber",
+      "accusative": "den Kugelschreiber",
+      "dative": "dem Kugelschreiber",
+      "genitive": "des Kugelschreibers"
+    },
+    "usage": [
+      {
+        "german": "Ich brauche einen neuen Kugelschreiber.",
+        "spanish": "Necesito un bolígrafo nuevo."
+      }
+    ],
+    "frequency": "Alta",
+    "difficulty": 1
+  },
+  {
+    "word": "Heftgerät",
+    "translation": "Grapadora",
+    "gender": "neutro",
+    "plural": "Heftgeräte",
+    "type": "noun",
+    "pronunciation": "/ˈhɛftɡəʁɛt/",
+    "categories": ["Oficina"],
+    "article": "das",
+    "case": {
+      "nominative": "das Heftgerät",
+      "accusative": "das Heftgerät",
+      "dative": "dem Heftgerät",
+      "genitive": "des Heftgeräts"
+    },
+    "usage": [
+      {
+        "german": "Das Heftgerät ist kaputt.",
+        "spanish": "La grapadora está rota."
+      }
+    ],
+    "frequency": "Media",
+    "difficulty": 2
+  },
+  {
+    "word": "Tacker",
+    "translation": "Engrapadora",
+    "gender": "masculino",
+    "plural": "Tacker",
+    "type": "noun",
+    "pronunciation": "/ˈtakɐ/",
+    "categories": ["Oficina"],
+    "article": "der",
+    "case": {
+      "nominative": "der Tacker",
+      "accusative": "den Tacker",
+      "dative": "dem Tacker",
+      "genitive": "des Tackers"
+    },
+    "usage": [
+      {
+        "german": "Ich benutze den Tacker für die Unterlagen.",
+        "spanish": "Uso la engrampadora para los documentos."
+      }
+    ],
+    "frequency": "Media",
+    "difficulty": 3
+  },
+  {
+    "word": "Pinnwand",
+    "translation": "Tablero de corcho",
+    "gender": "femenino",
+    "plural": "Pinnwände",
+    "type": "noun",
+    "pronunciation": "/ˈpɪnˌvant/",
+    "categories": ["Oficina"],
+    "article": "die",
+    "case": {
+      "nominative": "die Pinnwand",
+      "accusative": "die Pinnwand",
+      "dative": "der Pinnwand",
+      "genitive": "der Pinnwand"
+    },
+    "usage": [
+      {
+        "german": "Die Pinnwand ist voller Notizen.",
+        "spanish": "El tablero de corcho está lleno de notas."
+      }
+    ],
+    "frequency": "Media",
+    "difficulty": 2
+  },
+  {
+    "word": "Telefon",
+    "translation": "Teléfono",
+    "gender": "masculino",
+    "plural": "Telefone",
+    "type": "noun",
+    "pronunciation": "/ˈteːlefoːn/",
+    "categories": ["Tecnología", "Oficina"],
+    "article": "der",
+    "case": {
+      "nominative": "der Telefon",
+      "accusative": "den Telefon",
+      "dative": "dem Telefon",
+      "genitive": "des Telefons"
+    },
+    "usage": [
+      {
+        "german": "Das Telefon klingelt.",
+        "spanish": "El teléfono está sonando."
+      }
+    ],
+    "frequency": "Alta",
+    "difficulty": 2
+  }
+]

@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Editor de Diccionario</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f9f9f9;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        input, select, button {
+            margin: 5px 0;
+            padding: 10px;
+            width: 300px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>Editor de Diccionario</h1>
+    
+    <button id="importDictionary">Importar Diccionario</button>
+    <select id="categorySelect"></select>
+    <p id="wordCount"></p>
+    
+    <h2>Añadir Nueva Palabra</h2>
+    <input type="text" id="german" placeholder="Alemán" required>
+    <input type="text" id="spanish" placeholder="Español" required>
+    
+    <input type="file" id="audioFile" accept="audio/*">
+    <input type="file" id="imageFile" accept="image/*">
+    
+    <button id="addWord">Añadir Palabra</button>
+    
+    <h2>Añadir Nueva Categoría</h2>
+    <input type="text" id="newCategory" placeholder="Nombre de la nueva categoría">
+    <button id="addCategory">Añadir Categoría</button>
+    
+    <button id="saveDictionary">Guardar Diccionario</button>
+    
+    <script>
+        let wordCategories = {};
+
+        document.getElementById('importDictionary').addEventListener('click', importDictionary);
+        document.getElementById('addWord').addEventListener('click', addWord);
+        document.getElementById('addCategory').addEventListener('click', addCategory);
+        document.getElementById('saveDictionary').addEventListener('click', saveDictionary);
+
+        function importDictionary() {
+            const input = document.createElement('input');
+            input.type = 'file';
+            input.accept = '.json';
+            input.onchange = e => {
+                const file = e.target.files[0];
+                if (file) {
+                    const reader = new FileReader();
+                    reader.onload = event => {
+                        try {
+                            wordCategories = JSON.parse(event.target.result);
+                            updateCategorySelect();
+                            console.log('Diccionario importado:', wordCategories);
+                        } catch (error) {
+                            console.error('Error al importar el diccionario:', error);
+                        }
+                    };
+                    reader.readAsText(file);
+                }
+            };
+            input.click();
+        }
+
+        function updateCategorySelect() {
+            const categorySelect = document.getElementById('categorySelect');
+            categorySelect.innerHTML = ''; // Limpiar opciones existentes
+            
+            for (const category in wordCategories) {
+                const option = document.createElement('option');
+                option.value = category;
+                option.textContent = category;
+                categorySelect.appendChild(option);
+            }
+            
+            categorySelect.addEventListener('change', updateWordCount);
+            updateWordCount(); // Actualizar contador de palabras inicialmente
+        }
+
+        function updateWordCount() {
+            const categorySelect = document.getElementById('categorySelect');
+            const selectedCategory = categorySelect.value;
+            const count = wordCategories[selectedCategory] ? wordCategories[selectedCategory].length : 0;
+            document.getElementById('wordCount').textContent = `Palabras en ${selectedCategory}: ${count}`;
+        }
+
+        function addWord() {
+            const categorySelect = document.getElementById('categorySelect');
+            const selectedCategory = categorySelect.value;
+
+            const newWord = {
+                german: document.getElementById('german').value,
+                spanish: document.getElementById('spanish').value,
+                audio: '',
+                imagen: ''
+            };
+
+            const audioFile = document.getElementById('audioFile').files[0];
+            const imageFile = document.getElementById('imageFile').files[0];
+
+            if (audioFile) {
+                newWord.audio = URL.createObjectURL(audioFile);
+            }
+            if (imageFile) {
+                newWord.imagen = URL.createObjectURL(imageFile);
+            }
+
+            if (selectedCategory && newWord.german && newWord.spanish) {
+                if (!wordCategories[selectedCategory]) {
+                    wordCategories[selectedCategory] = []; // Asegurarse de que la categoría exista
+                }
+                wordCategories[selectedCategory].push(newWord);
+                updateWordCount(); // Actualizar contador después de añadir la palabra
+                console.log('Palabra añadida:', newWord);
+                clearInputs(); // Limpiar campos de entrada
+            } else {
+                alert('Por favor, completa todos los campos.');
+            }
+        }
+
+        function clearInputs() {
+            document.getElementById('german').value = '';
+            document.getElementById('spanish').value = '';
+            document.getElementById('audioFile').value = '';
+            document.getElementById('imageFile').value = '';
+        }
+
+        function addCategory() {
+            const newCategoryName = document.getElementById('newCategory').value;
+
+            if (newCategoryName && !wordCategories[newCategoryName]) {
+                wordCategories[newCategoryName] = []; // Crear nueva categoría
+                updateCategorySelect();
+                document.getElementById('newCategory').value = ''; // Limpiar campo de entrada
+                console.log('Categoría añadida:', newCategoryName);
+            } else {
+                alert('Por favor, introduce un nombre válido para la nueva categoría.');
+            }
+        }
+
+        function saveDictionary() {
+            const blob = new Blob([JSON.stringify(wordCategories, null, 2)], { type: 'application/json' });
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = 'dictionary.json';
+            link.click();
+            console.log('Diccionario guardado:', wordCategories);
+        }
+    </script>
+</body>
+</html>
